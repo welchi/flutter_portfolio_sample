@@ -47,3 +47,7 @@ app.*.map.json
 
 assets/*
 !assets/.gitkeep
+
+public/
+
+.firebase/
